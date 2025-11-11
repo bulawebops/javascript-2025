@@ -1,9 +1,8 @@
 # ES2015 (ES6) Variables: `var`, `let`, and `const`
 ## 📝 Description
-This lesson introduces the modern ways of declaring variables in JavaScript—var, let, and const—as defined in ES2015 (ES6). Learners will explore the fundamental concepts that govern how variables behave in memory, including declaration vs. initialization, scope (global, function, and block), and hoisting. Through guided examples and code analysis, students will learn how these three keywords differ in accessibility, reassignment, and lifecycle. By the end of this topic, learners will be able to write clean, predictable, and error-free JavaScript code using best practices for variable declaration in modern development environments.
+This lesson introduces the modern ways of declaring variables in JavaScript namely `var`, `let`, and `const` — as defined in ES2015 (ES6). You'll understand the fundamental concepts that govern how variables behave in memory, including declaration vs. initialization, scope (global, function, and block), and hoisting. Through guided examples and code analysis, students will learn how these three keywords differ in accessibility, reassignment, and lifecycle. At the end of this lesson plan, you will be able to write clean, predictable, and error-free JavaScript code using best practices for variable declaration in modern web development.
 
 ## 🎯 Learning Objectives
-
 1. **Differentiate between variable declaration and initialization**  
    - Learners will be able to explain the distinction between declaring and initializing variables in JavaScript and identify how `undefined` behaves during variable declaration.
 
