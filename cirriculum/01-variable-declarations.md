@@ -24,7 +24,7 @@ ES2015 (also known as ES6) introduced two new ways to create variables: `let` an
 
 ---
 
-## 🧩 Variable Declaration vs Initialization
+## 🧩 Variable Declaration vs. Initialization
 
 - **Declaration** introduces a new identifier.
 
@@ -81,7 +81,7 @@ function getDate() {
 }
 ```
 
-### 🧠 Function Scope vs Block Scope
+### 🧠 Function Scope vs. Block Scope
 
 Consider this example:
 
@@ -161,7 +161,7 @@ function discountPrices(prices, discount) {
 
 ---
 
-## 🔒 `let` vs `const`
+## 🔒 `let` vs. `const`
 
 `const` behaves almost exactly like `let`, except it **cannot be reassigned** after initialization.
 
