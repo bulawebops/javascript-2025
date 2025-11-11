@@ -1,4 +1,25 @@
 # ES2015 (ES6) Variables: `var`, `let`, and `const`
+## 📝 Description
+This lesson introduces the modern ways of declaring variables in JavaScript—var, let, and const—as defined in ES2015 (ES6). Learners will explore the fundamental concepts that govern how variables behave in memory, including declaration vs. initialization, scope (global, function, and block), and hoisting. Through guided examples and code analysis, students will learn how these three keywords differ in accessibility, reassignment, and lifecycle. By the end of this topic, learners will be able to write clean, predictable, and error-free JavaScript code using best practices for variable declaration in modern development environments.
+
+## 🎯 Learning Objectives
+
+1. **Differentiate between variable declaration and initialization**  
+   - Learners will be able to explain the distinction between declaring and initializing variables in JavaScript and identify how `undefined` behaves during variable declaration.
+
+2. **Describe and apply the concept of scope in JavaScript**  
+   - Learners will define global, function, and block scope, and correctly predict which variables are accessible in different parts of a program.
+
+3. **Explain and demonstrate hoisting behavior**  
+   - Learners will describe how hoisting works with `var`, `let`, and `const`, and illustrate the differences through practical code examples.
+
+4. **Compare and contrast `var`, `let`, and `const`**  
+   - Learners will be able to compare their scoping, hoisting, and reassignment behaviors and apply the appropriate keyword in given coding scenarios.
+
+5. **Apply best practices for variable declaration in modern JavaScript**  
+   - Learners will justify the use of `const` and `let` over `var` and write clean, maintainable code following modern ES6 conventions.
+
+---
 
 ES2015 (also known as ES6) introduced two new ways to create variables: `let` and `const`. Before diving into the differences among `var`, `let`, and `const`, we must first understand **variable declarations vs. initializations**, **scope**, and **hoisting**.
 
