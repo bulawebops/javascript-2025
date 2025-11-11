@@ -166,19 +166,19 @@ function discountPrices(prices, discount) {
 `const` behaves almost exactly like `let`, except it **cannot be reassigned** after initialization.
 
 ```javascript
-let name = 'Tyler';
-const handle = 'tylermcginnis';
+let name = 'Johnny';
+const handle = 'johnlingo';
 
-name = 'Tyler McGinnis'; // ✅
-handle = '@tylermcginnis'; // ❌ TypeError
+name = 'Johnny Lingo'; // ✅
+handle = '@johnnylingo'; // ❌ TypeError
 ```
 
 However, **const objects are not immutable** — their properties can still change:
 
 ```javascript
-const person = { name: 'Kim Kardashian' };
+const person = { name: 'Jennifer Atkins' };
 
-person.name = 'Kim Kardashian West'; // ✅
+person.name = 'Jennifer Atkins Eastbrook'; // ✅
 person = {}; // ❌ TypeError
 ```
 
