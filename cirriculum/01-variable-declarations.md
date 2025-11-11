@@ -129,7 +129,7 @@ During execution, variables are **hoisted** to the top, meaning declarations exi
 
 ---
 
-## ⚔️ `var` vs `let` vs `const`
+## ⚔️ `var` vs. `let` vs. `const`
 
 ### 🔹 `var`
 - Function-scoped
